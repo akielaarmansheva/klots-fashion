@@ -6,8 +6,8 @@
 
 ## 🚀 Demo
 
-<a href="https://akielaarmansheva.github.io/CapstoneMarvelSheva/" target="blank">
-<img src="https://img.shields.io/website?url=https://akielaarmansheva.github.io/CapstoneMarvelSheva/" />
+<a href="https://akielaarmansheva.github.io/klots-fashion/" target="blank">
+<img src="https://img.shields.io/website?url=https://akielaarmansheva.github.io/klots-fashion/" />
 </a>
 
 Try the tool: [Marvel Avenger Universe Website with ChatBot](https://akielaarmansheva.github.io/CapstoneMarvelSheva/)
