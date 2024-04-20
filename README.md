@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/website?url=https://akielaarmansheva.github.io/klots-fashion/" />
 </a>
 
-Try the tool: [Marvel Avenger Universe Website with ChatBot](https://akielaarmansheva.github.io/CapstoneMarvelSheva/)
+Try the tool: [KLOTS Fashion with Chatbot](https://akielaarmansheva.github.io/klots-fashion/)
 
 <h2>About</h2>
 
