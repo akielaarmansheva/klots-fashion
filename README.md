@@ -1,9 +1,5 @@
 <h1 align="center">KLOTS Fashion</h1>
 
-<p align="center">
-  <img src="https://yourimageurl.com" alt="KLOTS Fashion Logo">
-</p>
-
 <p align="center">Welcome to the KLOTS Fashion project repository!</p>
 
 <p align="center">KLOTS Fashion is an innovative implementation of a chatbot and outfit recommendation system on the KLOTS Fashion website, leveraging various AWS services such as Amazon Lex, Amazon S3, AWS Route 53, Amazon CloudFront, and Communicate for seamless integration of the chatbot functionality.</p>
