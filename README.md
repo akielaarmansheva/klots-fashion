@@ -8,6 +8,14 @@
 
 <p align="center">KLOTS Fashion is an innovative implementation of a chatbot and outfit recommendation system on the KLOTS Fashion website, leveraging various AWS services such as Amazon Lex, Amazon S3, AWS Route 53, Amazon CloudFront, and Communicate for seamless integration of the chatbot functionality.</p>
 
+## 🚀 Demo
+
+<a href="https://akielaarmansheva.github.io/CapstoneMarvelSheva/" target="blank">
+<img src="https://img.shields.io/website?url=https://akielaarmansheva.github.io/CapstoneMarvelSheva/" />
+</a>
+
+Try the tool: [Marvel Avenger Universe Website with ChatBot](https://akielaarmansheva.github.io/CapstoneMarvelSheva/)
+
 <h2>About</h2>
 
 <p>KLOTS Fashion is a forward-thinking fashion brand that enhances user experience on its website by introducing a chatbot feature, empowering customers to engage with the brand in a conversational manner and receive personalized outfit recommendations. Unlike other fashion brands such as ZARA or Uniqlo, KLOTS Fashion sets itself apart by offering a friendly and interactive chatbot assistant directly on its website.</p>
